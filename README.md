@@ -1,5 +1,5 @@
 # amazon.de-seller details extraction
-Here you can find suggestions and methods to scrape details of all the sellers available on website – amazon.de. 
+Here you can find script to scrape details of all the sellers available on website – amazon.de. 
 Such as,
 - Seller Name
 - Category (If specified)
